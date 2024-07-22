@@ -1,5 +1,15 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. basic approach can be adapted to solve various other star pattern programs in Java. 
+ */
+
+/**
+ * @author Satish
+ */
+
+
 public class Pattern3 {
 	public static void main(String[] args) {
 
