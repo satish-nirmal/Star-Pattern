@@ -1,5 +1,14 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. Inverted_Pyramid Star Pattern programs in Java. 
+ */
+
+/**
+ * @author Satish
+ */
+
 public class Inverted_Pyramid {
 	public static void main(String[] args) {
 		
