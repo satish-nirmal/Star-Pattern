@@ -2,7 +2,7 @@ package com.starpattern.numbers;
 
 /**
  * Question :
- * 1. basic approach can be adapted to solve various other star pattern programs in Java. 
+ * 1. Square Star Pattern programs in Java. 
  */
 
 /**
