@@ -1,5 +1,14 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. Pyramid_Star Pattern programs in Java. 
+ */
+
+/**
+ * @author Satish
+ */
+
 public class Pyramid_Star {
 	public static void main(String[] args) {
 		
