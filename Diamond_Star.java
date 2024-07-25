@@ -1,5 +1,14 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. Diamond_Star Pattern programs in Java. 
+ */
+
+/**
+ * @author Satish
+ */
+
 public class Diamond_Star {
 	
 	public static void main(String[] args) {
