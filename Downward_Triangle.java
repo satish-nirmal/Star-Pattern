@@ -1,5 +1,14 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. Downward_Triangle Pattern programs in Java. 
+ */
+
+/**
+ * @author Satish
+ */
+
 public class Downward_Triangle {
 	
 	public static void main(String[] args) {
