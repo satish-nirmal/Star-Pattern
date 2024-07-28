@@ -19,7 +19,9 @@ public class Downward_Triangle {
 				System.out.print("*");
 			}
 			// Move to the next line after each row
-			System.out.println();
+			System.out.println
+		  //System.out.println();
+
 		}
 	}
 }
