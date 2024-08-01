@@ -21,9 +21,8 @@ public class Pattern1 {
 				System.out.print("* ");
 
 			}
-
+			// Move to the next line after printing stars in each row
 			System.out.println("");
-
 		}
 	}
 }
