@@ -1,5 +1,14 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. print the all stars in 5 format. 
+ */
+
+/**
+ * @author Satish
+ */
+
 public class Butterfly_Pattern {
 
 	public static void main(String[] args) {
