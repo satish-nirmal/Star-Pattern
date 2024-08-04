@@ -2,11 +2,12 @@ package com.starpattern.numbers;
 
 /**
  * Question :
- * 1. print the all stars in 5 format. 
+ * 1. print Butterfly_Pattern program of stars. 
  */
 
 /**
- * @author Satish
+ * @author Satish Nirmal
+
  */
 
 public class Butterfly_Pattern {
