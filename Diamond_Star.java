@@ -6,7 +6,7 @@ package com.starpattern.numbers;
  */
 
 /**
- * @author Satish
+ * @author Satish Nirmal
  */
 
 public class Diamond_Star {
