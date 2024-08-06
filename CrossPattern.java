@@ -1,5 +1,15 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. Print Cross Pattern programs in Java. 
+ */
+
+/**
+ * @author Satish
+ */
+
+
 public class CrossPattern {
 
 	public static void main(String[] args) {
