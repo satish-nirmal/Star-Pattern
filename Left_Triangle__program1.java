@@ -1,5 +1,13 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. print Left_Triangle star program. 
+ */
+/**
+ * @author Satish Nirmal
+ */
+
 public class Left_Triangle__program1 {
 
 	public static void main(String args[]) {
