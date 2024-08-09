@@ -8,7 +8,7 @@ package com.starpattern.numbers;
  * @author Satish Nirmal
  */
 
-public class Left_Triangle__program1 {
+public class program1_Left_up {
 
 	public static void main(String args[]) {
 
