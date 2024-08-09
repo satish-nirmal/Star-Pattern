@@ -1,5 +1,14 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. print Program2_Left_Down star program. 
+ */
+/**
+ * @author Satish Nirmal
+ */
+
+
 public class Program2_Left_Down {
 
 	public static void main(String[] args) {
