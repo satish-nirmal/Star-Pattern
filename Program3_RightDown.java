@@ -1,7 +1,15 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. print Program3_RightDown star program. 
+ */
+/**
+ * @author Satish Nirmal
+ */
+
 public class Program3_RightDown {
-	
+
 	public static void main(String[] args) {
 
 		// size of the triangle
