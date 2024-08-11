@@ -24,6 +24,8 @@ public class Program3_RightDown {
 				System.out.print("*");
 			}
 			System.out.println();
+						// System.out.println();
+
 		}
 	}
 }
