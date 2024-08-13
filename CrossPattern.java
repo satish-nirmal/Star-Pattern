@@ -6,7 +6,7 @@ package com.starpattern.numbers;
  */
 
 /**
- * @author Satish Nirmal
+ * @author Satish_
  */
 
 
