@@ -2,19 +2,18 @@ package com.starpattern.numbers;
 
 /**
  * Question :
- * 1. print Program4_Right_up star program. 
+ * 1. print Program4_Right_up direction star program. 
  */
 /**
- * @author Satish Nirmal
+ * @author Satish
  */
 
 public class Program4_Right_up {
 	
 	public static void main(String[] args) {
 
-		// size of the triangle
 		int size = 5;
-		// loop to print the pattern
+		
 		for (int i = 0; i < size; i++) {
 			// print spaces
 			for (int j = 1; j < size - i; j++) {
