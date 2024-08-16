@@ -5,7 +5,7 @@ package com.starpattern.numbers;
  * 1. print Program3_RightDown star program. 
  */
 /**
- * @author Satish Nirmal
+ * @author Satish
  */
 
 public class Program3_RightDown {

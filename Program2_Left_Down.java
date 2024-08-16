@@ -5,7 +5,7 @@ package com.starpattern.numbers;
  * 1. print Program2_Left_Down star program. 
  */
 /**
- * @author Satish Nirmal
+ * @author Satish
  */
 
 
