@@ -1,5 +1,13 @@
 package com.starpattern.numbers;
 
+/**
+ * Question :
+ * 1. print Squre pattern star program. 
+ */
+/**
+ * @author Satish
+ */
+
 public class Program0_Squre {
 
 	public static void main(String[] args) {
