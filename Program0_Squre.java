@@ -5,7 +5,7 @@ package com.starpattern.numbers;
  * 1. print Squre pattern star program. 
  */
 /**
- * @author Satish
+ * @author Satish Nirmal
  */
 
 public class Program0_Squre {

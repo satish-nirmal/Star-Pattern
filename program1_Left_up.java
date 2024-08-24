@@ -5,7 +5,7 @@ package com.starpattern.numbers;
  * 1. print Left_Triangle star program. 
  */
 /**
- * @author Satish
+ * @author Satish Nirmal
  */
 
 public class program1_Left_up {
